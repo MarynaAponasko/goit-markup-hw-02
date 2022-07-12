@@ -101,6 +101,7 @@ body {
 	border: 0px;
 	border-radius: 4px;
 	cursor: pointer;
+	font-family: inherit;
 }
 
 .hero-button:focus,
@@ -244,6 +245,7 @@ body {
 	color: var(--primary-font-color);
 	cursor: pointer;
 	height: 38px;
+	font-family: inherit;
 }
 .button-item:hover,
 .button-item:focus,
